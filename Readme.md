@@ -5,7 +5,7 @@
 [Eslint File](https://github.com/ShafiaChy/Eslint-Config-Setup/blob/main/eslint.config.mjs)
 <br>
 
-*Delete the files `eslintrc` and `.eslintignore` file if they exists*
+*Delete the files `eslintrc` and `.eslintignore`*
 
 **Step - 2:** Copy/paste the following lines and paste inside `script` in `spackage.json` code from given in the package.json
 ```
