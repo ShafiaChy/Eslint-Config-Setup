@@ -1,4 +1,4 @@
-# **Instrution**
+# **Instruction**
 
 **Step - 1:** Create an `eslint.config.mjs` and copy the code from: 
 <br> 
@@ -7,7 +7,7 @@
 
 *Delete the files `eslintrc` and `.eslintignore`*
 
-**Step - 2:** Copy/paste the following lines and paste inside `script` in `spackage.json` code from given in the package.json
+**Step - 2:** Copy/paste the following lines and paste inside `script` in `package.json` code from given in the package.json
 ```
 
     "lint": "npx eslint src --ignore-pattern .ts",
